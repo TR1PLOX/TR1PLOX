@@ -1,4 +1,8 @@
 {
+  "enabledPlugins": {
+    "superlite@superlite-dev": true,
+    "claude-agent-map@superlite-dev": true
+  },
   "extraKnownMarketplaces": {
     "superlite-dev": {
       "source": {
@@ -6,8 +10,5 @@
         "repo": "iha2/superlite"
       }
     }
-  },
-  "enabledPlugins": {
-    "superlite@superlite-dev": true
   }
 }
