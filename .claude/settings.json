@@ -1,0 +1,13 @@
+{
+  "extraKnownMarketplaces": {
+    "superlite-dev": {
+      "source": {
+        "source": "github",
+        "repo": "iha2/superlite"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "superlite@superlite-dev": true
+  }
+}
